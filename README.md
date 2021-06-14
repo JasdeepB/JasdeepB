@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 ## 🎓 I'm a recent Computer Science & Software Engineering graduate from the University of Washington.
 
+## Many of my public facing projects repositories are not shown, please request access
+
 ### During these last couple of months of remote work and lockdowns I've been...
 <ul>
   <li>Working on projects that I'm interested in</li>
