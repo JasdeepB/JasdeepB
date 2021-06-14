@@ -14,13 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 ## 🎓 I'm a recent Computer Science & Software Engineering graduate from the University of Washington.
 
-<br>
+### During these last couple of months of remote work and lockdowns I've been...
+<ul>
+  <li>Working on projects that I'm interested in</li>
+  <li>Using the internet as my mentor</li>
+  <li>Learning JavaScript in order to create <a href="https://www.rapidstockchecker.com/">Rapid Stock Checker</a></li>
+  </ul>
 
-## 🧰 Here's a few Languages and Tools that I'm familiar with
+## 🧰 Languages, Tools, and Frameworks I can't get seem to get enough of
 <p align="center">
 <img src="Images/csharp-e7b8fcd4ce.png" alt="C#" height="76" style="vertical-align:top; margin:4px">
 <img src="Images/c-logo-vector.svg" alt="C++" height="74" style="vertical-align:top; margin:4px">
