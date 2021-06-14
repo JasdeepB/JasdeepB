@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 ## 🧰 Here's a few Languages and Tools that I'm familiar with
 <p align="center">
-<img src="Images/csharp-e7b8fcd4ce.png" alt="C#" height="120" style="vertical-align:top; margin:4px">
+<img src="Images/csharp-e7b8fcd4ce.png" alt="C#" height="76" style="vertical-align:top; margin:4px">
 <img src="Images/c-logo-vector.svg" alt="C++" height="74" style="vertical-align:top; margin:4px">
 <img src="Images/java_logo_640.jpg" alt="Java" height="74" style="vertical-align:top; margin:4px">
-<img src="Images/javascript-542e10ea6e.png" alt="JavaScript" height="150" style="vertical-align:top; margin:4px">
+<img src="Images/javascript-542e10ea6e.png" alt="JavaScript" height="85" style="vertical-align:top; margin:4px">
 <img src="Images/nodejs-development-services.png" alt="Node.js" height="90" style="vertical-align:top; margin:4px">
 <img src="Images/image.png" alt="SQL" height="90" style="vertical-align:top; margin:4px">
 <img src="Images/download (1).png" alt="MySQL" height="90" style="vertical-align:top; margin:4px">
