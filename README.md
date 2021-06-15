@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   </ul>
   
 ## 🔭 I’m currently working on ...
-<p><a href="https://www.rapidstockchecker.com/">Rapid Stock Checker</a></p>
+<p><a href="https://www.rapidstockchecker.com/">Rapid Stock Checker</a> a service that provides free back-in-stock alerts for hard-to-find PC, GPU and console components and hardware the moment they become available.</p>
 
 ## 🧰 Languages, Tools, and Frameworks I can't get seem to get enough of
 <p align="center">
