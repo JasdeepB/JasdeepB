@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 ## 🎓 I'm a recent Computer Science & Software Engineering graduate from the University of Washington.
 
+## 🔭 I’m currently working on ...
+<p><a href="https://www.rapidstockchecker.com/">Rapid Stock Checker</a></p>
+
 ### During these last couple of months of remote work and lockdowns I've been...
 <ul>
   <li>Working on projects that I'm interested in</li>
