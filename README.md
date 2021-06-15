@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 ## 🎓 I'm a recent Computer Science & Software Engineering graduate from the University of Washington.
 
-## Many of my public projects are inside private repositories. If you'd like to see them please request access
-
 ### During these last couple of months of remote work and lockdowns I've been...
 <ul>
   <li>Working on projects that I'm interested in</li>
@@ -40,3 +38,5 @@ Here are some ideas to get you started:
 <img src="Images/Visual-Studio-Logo.png" alt="Visual Studio" height="60" style="vertical-align:top; margin:4px">
 <img src="Images/postman.jpg" alt="Postman" height="60" style="vertical-align:top; margin:4px">
 </p>
+
+## Many of my public projects are inside private repositories. If you'd like to see them please request access
